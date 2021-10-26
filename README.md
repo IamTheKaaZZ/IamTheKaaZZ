@@ -49,7 +49,7 @@
 <details>
 	<summary>😅 Fun facts: </summary>
 <ul>
-	<li>My profile pic maybe a refined culture reference.</li>
+	<li>My profile pic may be a refined culture reference.</li>
 	<li>Yes, my profile name is indeed a gamertag!</li>
 	<li>Add me on Discord for more mature gamertags!</li>
 	<img align="center" alt="discord" src="https://img.shields.io/badge/ownedbiotch%238628-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
