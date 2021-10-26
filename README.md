@@ -4,6 +4,8 @@
 - "I know nothing, therefore I learn" - Definitely not Socrates.
 - "We don't make mistakes, we just make happy accidents" - Bob Ross.
 
+[![Spotify](https://spotify-player-eziirevhv-iamthekaazz.vercel.app/api/spotify)](https://open.spotify.com/user/nullius)
+
 ## <img width=30px height=30px align="top" src="https://emojis.slackmojis.com/emojis/images/1476969053/1263/terminal.png?1476969053"> HOME: 
 <p align=left><br><b>Student&emsp; @ &emsp;<img align="center" alt="42Lisboa" src="https://img.shields.io/badge/-Lisboa-black?style=for-the-badge&logo=42" href="https://www.42lisboa.com/en/">
 &emsp; since February 2021!</b>
@@ -38,15 +40,14 @@
 [![Instagram](https://img.shields.io/badge/@nullius__poetry__stories-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nullius_poetry_stories/)
 - Cooking!
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
+### ⚡ Recent GitHub Activity
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
-</details>
 
 <details>
 	<summary>😅 Fun facts: </summary>
 <ul>
+	<li>My profile pic maybe a refined culture reference.</li>
 	<li>Yes, my profile name is indeed a gamertag!</li>
 	<li>Add me on Discord for more mature gamertags!</li>
 	<img align="center" alt="discord" src="https://img.shields.io/badge/ownedbiotch%238628-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
