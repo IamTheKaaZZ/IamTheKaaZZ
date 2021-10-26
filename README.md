@@ -42,6 +42,8 @@
 
 ### ⚡ Recent GitHub Activity
   <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/IamTheKaaZZ/42_minishell/pull/1) in [IamTheKaaZZ/42_minishell](https://github.com/IamTheKaaZZ/42_minishell)
+2. 💪 Opened PR [#1](https://github.com/IamTheKaaZZ/42_minishell/pull/1) in [IamTheKaaZZ/42_minishell](https://github.com/IamTheKaaZZ/42_minishell)
   <!--END_SECTION:activity-->
 
 <details>
