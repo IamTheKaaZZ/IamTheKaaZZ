@@ -4,7 +4,7 @@
 - "I know nothing, therefore I learn" - Definitely not Socrates.
 - "We don't make mistakes, we just make happy accidents" - Bob Ross.
 
-[![Spotify](https://spotify-player-eziirevhv-iamthekaazz.vercel.app/api/spotify)](https://open.spotify.com/user/nullius)
+[![Spotify](https://spotify-player-eziirevhv-iamthekaazz.vercel.app/api/spotify)](https://open.spotify.com/user/314gevvqikmuymgcp2aav7rozsfa?si=36308264230745d4)
 
 ## <img width=30px height=30px align="top" src="https://emojis.slackmojis.com/emojis/images/1476969053/1263/terminal.png?1476969053"> HOME: 
 <p align=left><br><b>Student&emsp; @ &emsp;<img align="center" alt="42Lisboa" src="https://img.shields.io/badge/-Lisboa-black?style=for-the-badge&logo=42" href="https://www.42lisboa.com/en/">
