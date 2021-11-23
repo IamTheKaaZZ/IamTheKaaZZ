@@ -11,13 +11,14 @@
 &emsp; since February 2021!</b>
 <p>
 
-## <img width=30px height=30px align="top" src="https://emojis.slackmojis.com/emojis/images/1597609868/10096/laptop_parrot.gif?1597609868"> PWD: 
+## <img width=30px height=30px align="top" src="https://emojis.slackmojis.com/emojis/images/1597609868/10096/laptop_parrot.gif?1597609868"> Current project: 
 
 [![C++](https://img.shields.io/badge/-CPP__MODULES-green?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/IamTheKaaZZ/cpp_modules)
 
-## <img width=25px height=25px align="top" src="https://emojis.slackmojis.com/emojis/images/1572051614/7000/yes.png?1572051614">OLDPWD: 
+## <img width=25px height=25px align="top" src="https://emojis.slackmojis.com/emojis/images/1572051614/7000/yes.png?1572051614">Finished projects: 
 
 [![C](https://img.shields.io/badge/-minishell-blue?style=for-the-badge&logo=c&logoColor=white)](https://github.com/IamTheKaaZZ/42_minishell)
+[![C](https://img.shields.io/badge/-philosphers-blue?style=for-the-badge&logo=c&logoColor=white)](https://github.com/IamTheKaaZZ/philosophers)
 
 ## 📚 Currently updating and installing:
 
