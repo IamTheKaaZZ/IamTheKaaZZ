@@ -7,14 +7,14 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamTheKaaZZ&layout=compact&theme=dark" />
 </a>
-<a href="https://open.spotify.com/user/314gevvqikmuymgcp2aav7rozsfa?si=36308264230745d4">
+<!-- <a href="https://open.spotify.com/user/314gevvqikmuymgcp2aav7rozsfa?si=36308264230745d4">
   <img align="center" src="https://spotify-player-eziirevhv-iamthekaazz.vercel.app/api/spotify" />
-</a>
+</a> -->
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamTheKaaZZ&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamTheKaaZZ&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Spotify](https://spotify-player-eziirevhv-iamthekaazz.vercel.app/api/spotify)](https://open.spotify.com/user/314gevvqikmuymgcp2aav7rozsfa?si=36308264230745d4) -->
+[![Spotify](https://spotify-player-eziirevhv-iamthekaazz.vercel.app/api/spotify)](https://open.spotify.com/user/314gevvqikmuymgcp2aav7rozsfa?si=36308264230745d4)
 
 ## <img width=30px height=30px align="top" src="https://emojis.slackmojis.com/emojis/images/1476969053/1263/terminal.png?1476969053"> HOME: 
 <p align=left><br><b>Student&emsp; @ &emsp;<img align="center" alt="42Lisboa" src="https://img.shields.io/badge/-Lisboa-black?style=for-the-badge&logo=42" href="https://www.42lisboa.com/en/">
