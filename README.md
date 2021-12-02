@@ -7,28 +7,24 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamTheKaaZZ&layout=compact&theme=dark" />
 </a>
-<!-- <a href="https://open.spotify.com/user/314gevvqikmuymgcp2aav7rozsfa?si=36308264230745d4">
-  <img align="center" src="https://spotify-player-eziirevhv-iamthekaazz.vercel.app/api/spotify" />
-</a> -->
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamTheKaaZZ&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Spotify](https://spotify-player-eziirevhv-iamthekaazz.vercel.app/api/spotify)](https://open.spotify.com/user/314gevvqikmuymgcp2aav7rozsfa?si=36308264230745d4)
 
-## <img width=30px height=30px align="top" src="https://emojis.slackmojis.com/emojis/images/1476969053/1263/terminal.png?1476969053"> HOME: 
+## <img width=30px height=30px align="top" src="https://emojis.slackmojis.com/emojis/images/1476969053/1263/terminal.png?1476969053"> HOME:
 <p align=left><br><b>Student&emsp; @ &emsp;<img align="center" alt="42Lisboa" src="https://img.shields.io/badge/-Lisboa-black?style=for-the-badge&logo=42" href="https://www.42lisboa.com/en/">
 &emsp; since February 2021!</b>
 <p>
 
-## <img width=30px height=30px align="top" src="https://emojis.slackmojis.com/emojis/images/1597609868/10096/laptop_parrot.gif?1597609868"> Current project: 
+## <img width=30px height=30px align="top" src="https://emojis.slackmojis.com/emojis/images/1597609868/10096/laptop_parrot.gif?1597609868"> Current project:
 
 [![C++](https://img.shields.io/badge/-CPP__MODULES-green?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/IamTheKaaZZ/cpp_modules)
 
-## <img width=25px height=25px align="top" src="https://emojis.slackmojis.com/emojis/images/1572051614/7000/yes.png?1572051614">Finished projects: 
+## <img width=25px height=25px align="top" src="https://emojis.slackmojis.com/emojis/images/1572051614/7000/yes.png?1572051614">Finished projects:
 
 [![C](https://img.shields.io/badge/-minishell-blue?style=for-the-badge&logo=c&logoColor=white)](https://github.com/IamTheKaaZZ/42_minishell)
 [![C](https://img.shields.io/badge/-philosophers-blue?style=for-the-badge&logo=c&logoColor=white)](https://github.com/IamTheKaaZZ/philosophers)
+[![C](https://img.shields.io/badge/-pipex-blue?style=for-the-badge&logo=c&logoColor=white)](https://github.com/IamTheKaaZZ/pipex)
+[![C](https://img.shields.io/badge/-cub3D-blue?style=for-the-badge&logo=c&logoColor=white)](https://github.com/IamTheKaaZZ/cub3d)
 
 ## 📚 Currently updating and installing:
 
@@ -36,12 +32,12 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Shell Scipting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 🔄 Pending updates: 
+## 🔄 Pending updates:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-## 💬 Socials: 
+## 💬 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-costers-72634413a)
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ben.costers/)
