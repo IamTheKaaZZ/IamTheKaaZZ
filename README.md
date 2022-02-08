@@ -27,8 +27,8 @@
 
 [![C++](https://img.shields.io/badge/-CPP__MODULES-green?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/IamTheKaaZZ/cpp_modules)
 [![C++](https://img.shields.io/badge/-CPP__MODULES__UPGRADED-green?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/IamTheKaaZZ/cpp_modules_upgraded)
-[![C++](https://img.shields.io/badge/-FT__CONTAINERS-green?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/IamTheKaaZZ/cpp_modules)
-[![Docker](https://img.shields.io/badge/-INCEPTION-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/IamTheKaaZZ/cpp_modules)
+[![C++](https://img.shields.io/badge/-FT__CONTAINERS-green?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/IamTheKaaZZ/ft_containers)
+[![Docker](https://img.shields.io/badge/-INCEPTION-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/IamTheKaaZZ/inception)
 ## <img width=25px height=25px align="top" src="https://emojis.slackmojis.com/emojis/images/1572051614/7000/yes.png?1572051614">Finished projects
 
 [![C](https://img.shields.io/badge/-minishell-blue?style=for-the-badge&logo=c&logoColor=white)](https://github.com/IamTheKaaZZ/42_minishell)
